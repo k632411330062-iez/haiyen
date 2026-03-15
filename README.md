@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Hai+Yen;Learning+Python+%26+Data+Analysis;Future+Data+Analyst;Building+projects+on+GitHub"/>
 </p>
 
----
+
 
 ## 💫 About Me
 
@@ -41,7 +41,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyen&layout=compact&theme=tokyonight"/>
 </p>
-
 
 
 ## 🔥 GitHub Streak
