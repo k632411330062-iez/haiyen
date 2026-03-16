@@ -64,4 +64,9 @@
 A system that automatically updates stock when invoices are created.
 
 
+## 📫 Connect With Me
+
+📧 Email: [k63.2411330062@ftu.edu.vn](mailto:k63.2411330062@ftu.edu.vn)
+
+
 ⭐ Follow my learning journey on GitHub
