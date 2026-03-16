@@ -1,10 +1,10 @@
 
 <!-- Banner -->
+<h1 align="center">Hi I'm Hai Yen 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hai%20Yen&fontSize=40&fontColor=ffffff"/>
+<img src="https://github.com/k632411330062-iez/haiyen/blob/main/t%E1%BA%A3i%20xu%E1%BB%91ng.gif?raw=true" width="650"/>
 </p>
-
 <!-- Typing animation -->
 
 <p align="center">
