@@ -16,8 +16,11 @@
 ## 💫 About Me
 
  🎓 Student interested in **Data Analysis**
+ 
  📊 Currently learning **Python & Statistics**
+ 
  🚀 Building projects to improve programming skills
+ 
  🌱 Goal: Become a **Data Analyst**
 
 
