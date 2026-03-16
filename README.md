@@ -8,8 +8,44 @@ Student learning <b>Python, Data Analysis and Finance</b>
 
 <img src="profile-card.png" width="420"/>
 
+---
+
+## 🚀 About Me
+
+🎓 Student interested in **Data Analysis**
+
+📊 Currently learning:
+
+* Python
+* Statistics
+* Data Analysis
+
+🎯 Goal: Become a **Data Analyst**
+
+---
+
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=haiyen&show_icons=true&theme=tokyonight"/>
+
+---
+
+## 📈 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyen&layout=compact&theme=tokyonight"/>
+
+---
+
+⭐ Follow my journey as I learn programming and data analysis.
 
 </div>
+
 
 
 <!-- Banner -->
