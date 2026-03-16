@@ -1,3 +1,17 @@
+<div align="center" style="max-width:700px; margin:auto;">
+
+<h1>Hi I'm Hai Yen 👋</h1>
+
+<p>
+Student learning <b>Python, Data Analysis and Finance</b>
+</p>
+
+<img src="profile-card.png" width="420"/>
+
+
+</div>
+
+
 <!-- Banner -->
 
 <p align="center">
