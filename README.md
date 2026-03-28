@@ -59,11 +59,12 @@
 </p>
 
 
-
 ## 🚀 Featured Projects
 
-📦 **Inventory Management System**
-A system that automatically updates stock when invoices are created.
+📦 **Inventory Management System**  
+A system that automatically updates stock when invoices are created.  
+
+👉 [🔗 View Live Demo](https://ais-pre-42xlg6lhgarkstcfbkr6n2-489563319108.asia-east1.run.app)
 
 
 ## 📫 Connect With Me
